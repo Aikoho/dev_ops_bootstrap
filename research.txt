@@ -1,3 +1,4 @@
 Made some research about debian server version and downloaded it
 
 Currently experimenting it on a VM for testing purpose 
+Mostly intsall of debian and research about putting up a gitlab server & stuff
