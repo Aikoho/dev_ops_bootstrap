@@ -5,3 +5,9 @@ Mostly intsall of debian and research about putting up a gitlab server & stuff
 Worked on the gitlab server and started configuring external url and installing all the required dependencies
 some research on gitlab runner , helped my mate to use the VM I builded, and some gotham research / new canva creation for last follow up + follow up gotham
 did some reaserach and tried to make the runner work
+
+- Preparation diapo Gotham
+- Preparatiom Soutenance Gotham
+- Soutenance Gotham
+
+- Dev Ops: mise en place runner back end / installation-configuration server gitlab 
