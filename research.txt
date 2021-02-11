@@ -11,3 +11,6 @@ did some reaserach and tried to make the runner work
 - Soutenance Gotham
 
 - Dev Ops: mise en place runner back end / installation-configuration server gitlab 
+Looked into the students projects
+Prepared for Dev_Ops' keynote
+prepared for Gotham's keynote
