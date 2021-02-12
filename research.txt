@@ -14,3 +14,7 @@ did some reaserach and tried to make the runner work
 Looked into the students projects
 Prepared for Dev_Ops' keynote
 prepared for Gotham's keynote
+keynote Dev Ops
+keynote Gotham
+touch Statistics: Continuous distribution
+Probability: In Finance / Statistic / Data Science
