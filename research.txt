@@ -21,3 +21,10 @@ Probability: In Finance / Statistic / Data Science
 meet end of studies project's mate
 Started organization and sharinf tasks
 Started making some figma design for front end
+Normal Distribution
+Students' T Distribution
+Standard Normal Distribution
+Chi-Squared Distribution
+Exponential Distribution
+Logistic Distribution
+Excel usage of Graphical reprensatation of data and Trend lines
