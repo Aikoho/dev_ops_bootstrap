@@ -31,3 +31,6 @@ Excel usage of Graphical reprensatation of data and Trend lines
 Started the AI/Data Bootstrap
 Lot of research on the YEP UI/UX
 Lot of research on YEP tech we will be using, espacially on the open certificates part
+Meeting with YEP team
+Boostrap for AI project
+Met AI team
