@@ -1,6 +1,6 @@
 Made some research about debian server version and downloaded it
 
-Currently experimenting it on a VM for testing purpose 
+Currently experimenting it on a VM for testing purpose
 Mostly intsall of debian and research about putting up a gitlab server & stuff
 Worked on the gitlab server and started configuring external url and installing all the required dependencies
 some research on gitlab runner , helped my mate to use the VM I builded, and some gotham research / new canva creation for last follow up + follow up gotham
@@ -10,7 +10,7 @@ did some reaserach and tried to make the runner work
 - Preparatiom Soutenance Gotham
 - Soutenance Gotham
 
-- Dev Ops: mise en place runner back end / installation-configuration server gitlab 
+- Dev Ops: mise en place runner back end / installation-configuration server gitlab
 Looked into the students projects
 Prepared for Dev_Ops' keynote
 prepared for Gotham's keynote
@@ -37,3 +37,31 @@ Met AI team
 Meeting with YEP's team
 English
 ML's lessons
+
+--------------------------------------------------------------------------------
+
+Discution avec le groupe YEP sur l'utilisation des buckets S3 AWSdans le cadre de la mise en place du systeme d'upload des projets par les utilisateurs.
+Volonte d'utiliser les fonctions lambda d'AWS en serverless a l'upload d'un fichier par un utilisateurs pour generer une image docker qui buildera
+le projet au sein d'un container docker sur base de l'image dockerhub selectionne par l'utilisateur.
+Recherches sur comment definir programmatiquement un Dockerfile
+Mise en place d'un script declenchant une commande docker permettant la specification de la version d'une image dockerhub node sur base de variable d'environnement
+
+Dockerfile d'exemple
+```
+ARG NODE_VERSION=version
+FROM node:${NODE_VERSION}
+
+WORKDIR /compta path_aws/comptaU
+
+RUN yarn start-prod
+```
+
+Commande d'examples
+```
+export NODE_VERSION=12.18.2
+docker build --build-arg "NODE_VERSION=$NODE_VERSION" .
+```
+
+Discution avec le groupe projet IA sur l'organisation du groupe et definition d'un planning
+Recherche personnelle sur l'imagerie medicale
+Debute un cours sur le traitement d'imagerie medical avec Tensorflow et Keras
