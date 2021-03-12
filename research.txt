@@ -65,3 +65,11 @@ docker build --build-arg "NODE_VERSION=$NODE_VERSION" .
 Discution avec le groupe projet IA sur l'organisation du groupe et definition d'un planning
 Recherche personnelle sur l'imagerie medicale
 Debute un cours sur le traitement d'imagerie medical avec Tensorflow et Keras
+
+-------------------------------------------------------------------------------------------------------------
+Bosse sur des cours d'IA concernant l'imagerie medicale
+
+Utilisation de Numpy, matplotlib, tensorflow etc...
+
+Mise en place de graphique concernant les donnes mise a dispotions, analyse des dit graphique
+Rappels sur l'utilisation des regression lineaires et des calculs de gradiants, etc...
