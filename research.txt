@@ -73,3 +73,19 @@ Utilisation de Numpy, matplotlib, tensorflow etc...
 
 Mise en place de graphique concernant les donnes mise a dispotions, analyse des dit graphique
 Rappels sur l'utilisation des regression lineaires et des calculs de gradiants, etc...
+
+-------------------------------------------------------------------------------------------------------------
+
+Travail sur le YEP projects
+
+Achat et configuration de server AWS
+
+Mise en place de Lambda sur AWS
+
+Tentative de remplacer le systeme de lambda standart par des version dockerise des librairies python necessaire
+a l'executioon des lambdas en vu de l'upload et de la mise en place automatiques de container docker au sein de la
+lambda sans passer par un container EC2 AWS
+
+Comprehension du systeme de l'organisation des servers AWS inter bucket S3 et lambda
+
+Beaucoup de recherche sur ces sujets et d'essai d'alternatives
