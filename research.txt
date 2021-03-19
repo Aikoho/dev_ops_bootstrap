@@ -89,3 +89,15 @@ lambda sans passer par un container EC2 AWS
 Comprehension du systeme de l'organisation des servers AWS inter bucket S3 et lambda
 
 Beaucoup de recherche sur ces sujets et d'essai d'alternatives
+
+--------------------------------------------------------------------------------------------------------------
+
+Bosser sur le cours Coursera sur l'AI et l'imagerie medical
+
+Travaille sur le dataset pour la partie nomralisation des donnes
+
+Analayse humaines des images pour comprendre sur quoi focaliser  les Recherches
+
+Beaucoup de mise en place de graphique sur le jue de donnees, etc ...
+
+Premiere approche deep learning sur les donnes et apprentissage du fonctionnment de models, etc...
