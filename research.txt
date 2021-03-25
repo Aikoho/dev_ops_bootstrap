@@ -101,3 +101,13 @@ Analayse humaines des images pour comprendre sur quoi focaliser  les Recherches
 Beaucoup de mise en place de graphique sur le jue de donnees, etc ...
 
 Premiere approche deep learning sur les donnes et apprentissage du fonctionnment de models, etc...
+
+---------------------------------------------------------------------------------------------------------------
+
+Matine occupe a faire les follows up du projet de fin d'annee et du projet IA.
+
+Continuer a bosser sur le cours cousera sur l'imagerie medicale
+
+Mise en place de models keras, analyse de graph representant la distribution des pixels sur les sets d'images
+
+Revu un certain nombre de notion Statistique et Probabilite (regression lineaire, bool, methodologies bayesiennes, certain nombre de formule comme la variation et l'expectency, etc...)
