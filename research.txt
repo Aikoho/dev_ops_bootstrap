@@ -111,3 +111,17 @@ Continuer a bosser sur le cours cousera sur l'imagerie medicale
 Mise en place de models keras, analyse de graph representant la distribution des pixels sur les sets d'images
 
 Revu un certain nombre de notion Statistique et Probabilite (regression lineaire, bool, methodologies bayesiennes, certain nombre de formule comme la variation et l'expectency, etc...)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Avancment sur projet YEP: dhost
+
+Avanement sur la comprehension du fonctionnement des images docker custom dans le cadre de l'execution de fonction lambda
+
+Mise en place de notre premiere image custom sur aws dans le cadre de l'utilisation a travers les fonction lambda de docker
+et de la genreation de dockerfiles specifiques a l'usage du client.
+
+configureation d'un nouveau referentiel privee et setup des outils cli, docker / aws en local
+
+Reflexion autour de la mise en place de la generation de Dockerfile et du build de container en format serverless sous aws pour build des projets en differentes techmos et les upload sur notre bcket s3
