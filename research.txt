@@ -125,3 +125,15 @@ et de la genreation de dockerfiles specifiques a l'usage du client.
 configureation d'un nouveau referentiel privee et setup des outils cli, docker / aws en local
 
 Reflexion autour de la mise en place de la generation de Dockerfile et du build de container en format serverless sous aws pour build des projets en differentes techmos et les upload sur notre bcket s3
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Demenagement tout recent et pas encore de box donc journee un peu complique vu que tout mon taff actuel se passe sur la console AWS et a travers l'utilisation de plateform comme colab de google
+
+
+En resume, recherche sur les meilleurs marches a suivre pour implementer notre propre version d'un environnement de lambda AWS dans le but d'avoir un environnement python contenant le package docker
+
+Modification de notre Dockerfile pour ajouter un certain nombre de librairies et de declencher un script au sein de l'environnement sur un call de la lambda depuis aws-cli
+
+Continue a essayer tant bien que mal a se former sur l'analyse d'image en ML mais complique avec la connection actuelle donc peu d'avances et beaucoup de frustration :)
