@@ -150,3 +150,11 @@ travaille sur le YEP,
 TNous avaons tente de faire fonctionner les lambda AWS a partir d'un Dockerfile Custom pour avoir un enironnement approprie a nos besoin
 
 Nous avons finalement reussi a faire les installation que nous voulions mais un nouveau prbleme a fait son apparation vient de nous faire abandonner pour la journee le message d'erreur etant qu'il n'y en a passe
+
+---------------------------------------------------------------------------------------------------------------------
+
+Bosse sur le projet IA, mise en place de la premiere IA, quelques tests et experimentation sur les differents layers pour essayer d'amelioerer la precision
+
+Discution autour du nouveau projet WEB, mise en place d'un groupe, et choix /reherches autours des technos que nous utiliserons (React, Lefleats)
+
+Recherche pour trouver des donnes autours des lieux de vie / evenements sociaux / etc .. (Difficulte etant qu'en ce moment, il n'y a rien il va falloir chercher dans le passe...)
