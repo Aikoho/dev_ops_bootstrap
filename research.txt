@@ -158,3 +158,13 @@ Bosse sur le projet IA, mise en place de la premiere IA, quelques tests et exper
 Discution autour du nouveau projet WEB, mise en place d'un groupe, et choix /reherches autours des technos que nous utiliserons (React, Lefleats)
 
 Recherche pour trouver des donnes autours des lieux de vie / evenements sociaux / etc .. (Difficulte etant qu'en ce moment, il n'y a rien il va falloir chercher dans le passe...)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Recherches plus approfondies sur les differents type de layers
+
+Esasye de jouer un peu sur les parmatre pour comparer la precision
+
+Avance sur AWS
+Premiere lambda fonctionnelle, re reflexion autour de la structures du services et comment l'exploiter au mieux pour reduire les couts de terme de service QWS
