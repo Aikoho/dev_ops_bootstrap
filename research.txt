@@ -168,3 +168,18 @@ Esasye de jouer un peu sur les parmatre pour comparer la precision
 
 Avance sur AWS
 Premiere lambda fonctionnelle, re reflexion autour de la structures du services et comment l'exploiter au mieux pour reduire les couts de terme de service QWS
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Principalement travaille sur le projet AI/Data, mise en place du model
+
+Mise en pratique taux de base a 89.6% sur le premier necessaire
+
+J'ai essayer de tester avec differents parametre pour ameliorer la precision
+
+Pas reussi a aller au dessus pour le moment, reste aux alentours des 82-86%
+
+Organisation de reunion pour les 4 projets en cours.
+
+Trouve et fait l'organisation et un debut de plan pour le projet Votron
