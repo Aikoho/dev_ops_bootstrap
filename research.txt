@@ -183,3 +183,12 @@ Pas reussi a aller au dessus pour le moment, reste aux alentours des 82-86%
 Organisation de reunion pour les 4 projets en cours.
 
 Trouve et fait l'organisation et un debut de plan pour le projet Votron
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Avance sur le Machine LEraning, utilisation des donnes fourni par epitech sur la Pneumonie pour remplacer les donnes sur le covid sur lesquels je travaillais
+
+Bon resultat de precision 94% avant la changement d'images, probleme dans mon algo de detection de la precision pour la PNUEMONIE je dois adapter mon code(retourne -34% de precision pour le momemnt...)
+
+Avance sur le YEP avec la mise en place et la recupereation et la connection au compte aws depuis l'interieur de l'environnement la custom lambda mise en place
