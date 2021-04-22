@@ -192,3 +192,16 @@ Avance sur le Machine LEraning, utilisation des donnes fourni par epitech sur la
 Bon resultat de precision 94% avant la changement d'images, probleme dans mon algo de detection de la precision pour la PNUEMONIE je dois adapter mon code(retourne -34% de precision pour le momemnt...)
 
 Avance sur le YEP avec la mise en place et la recupereation et la connection au compte aws depuis l'interieur de l'environnement la custom lambda mise en place
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pas mal de recherche sur la fonctionnement du ML et plus precisement sur le fonctionnement des differents type de layers et leur objectifs au niveau du traitement ed l'images
+
+Soutenance
+
+Continue a faire des recherches et tente de remettre mon algo en place (taux de precision a -20%, pour le moment sur le testing set ....)
+
+Organisation avec les autres groupes et mise en place d'un planning pour les recherches a venir sur le projet Dev
+
+Contacte Bastien pour les histoires de credits manquant, mais en vacances pour le moment...
