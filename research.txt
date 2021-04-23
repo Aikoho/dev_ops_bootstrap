@@ -205,3 +205,12 @@ Continue a faire des recherches et tente de remettre mon algo en place (taux de 
 Organisation avec les autres groupes et mise en place d'un planning pour les recherches a venir sur le projet Dev
 
 Contacte Bastien pour les histoires de credits manquant, mais en vacances pour le moment...
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Beaucoup de recherches autours des differents types de layers a utiliser au sein de notre algorithme AI
+
+REntree plus en profondeurs dans la theorie autour de ces algo et comment les implemente a la main et leur fonctionnement
+
+Un peu de recherche autour des lambda AWS pour implemente notre solution sur le YEP, peu d'avance concrete mais beaucoup de concept plus clauir pour la suite
