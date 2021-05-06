@@ -214,3 +214,20 @@ Beaucoup de recherches autours des differents types de layers a utiliser au sein
 REntree plus en profondeurs dans la theorie autour de ces algo et comment les implemente a la main et leur fonctionnement
 
 Un peu de recherche autour des lambda AWS pour implemente notre solution sur le YEP, peu d'avance concrete mais beaucoup de concept plus clauir pour la suite
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Longues discution autour du projet Epic Road Trip
+
+Discution autour des features a implementer
+
+Definition des taches de chacun
+
+Reflexion autour de la recuperation des donnes necessaires au projet 
+
+Debut du schema de la futur base de donnes
+
+Reflection sur la necessite de stocker les addresses en base ou non
+
+On ne le fera probablement pas si API, on le fera si pas d'API
