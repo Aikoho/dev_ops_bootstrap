@@ -224,10 +224,18 @@ Discution autour des features a implementer
 
 Definition des taches de chacun
 
-Reflexion autour de la recuperation des donnes necessaires au projet 
+Reflexion autour de la recuperation des donnes necessaires au projet
 
 Debut du schema de la futur base de donnes
 
 Reflection sur la necessite de stocker les addresses en base ou non
 
 On ne le fera probablement pas si API, on le fera si pas d'API
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+3 reunions pour les 3 projets: le Road Trip, ou nous avons fait une mise au point avec Francois qui n'avait pas pu venir a la derniere; le projet AI ou nous
+avons vu le modele a choisir pour la presentation au Keynote, nous en avons selectionner une et allons nous repartir diffretentes taches pour prepaprer la keynote;
+et le vultron ou nous avons commence a discuter de comment s'organiser pour les strucures de DB.
+
+Je travail en ce moment sur le transfer du projet AI sur jupyter plutot que le google collab sur lequel il tourne actuellement 
