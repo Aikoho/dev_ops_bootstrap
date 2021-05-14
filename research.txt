@@ -238,4 +238,17 @@ On ne le fera probablement pas si API, on le fera si pas d'API
 avons vu le modele a choisir pour la presentation au Keynote, nous en avons selectionner une et allons nous repartir diffretentes taches pour prepaprer la keynote;
 et le vultron ou nous avons commence a discuter de comment s'organiser pour les strucures de DB.
 
-Je travail en ce moment sur le transfer du projet AI sur jupyter plutot que le google collab sur lequel il tourne actuellement 
+Je travail en ce moment sur le transfer du projet AI sur jupyter plutot que le google collab sur lequel il tourne actuellement
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Preparation de la soutenance pour le projet AI
+
+Distribution des differentes parties a presente entre les differents membres du groupe
+
+Creation du diaporama
+
+Relancer le code histoire de s'assurer que tout se comporte comme prevu et recuperations des prints et informations retourner pour le diapo
+
+Remise en tete du focntionnement du code pour les membres du groupe et discutions autour de comment mettre en avant les differents elements mis
+en place durant le projet pour la presentation 
