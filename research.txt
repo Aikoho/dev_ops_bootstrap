@@ -252,3 +252,13 @@ Relancer le code histoire de s'assurer que tout se comporte comme prevu et recup
 
 Remise en tete du focntionnement du code pour les membres du groupe et discutions autour de comment mettre en avant les differents elements mis
 en place durant le projet pour la presentation 
+
+--------------------------------------------------------------------------------------------------------------------
+
+Preparation soutenance pour le projet AI/Data, nouveaux tests avec les models, tente de relancer differente epochs pour le traning
+
+AWS Lambda pour l'ESP, mise en place des oinformation necessaire a la generation du docker et tentative de generation du docker depuis un call externe
+
+Reunion projet voltron avce k'equipe de specialite, reflextion autour de la DB
+
+Projet RoadTrip, organsiation des taches et des process a mettre en place pour le bon deroulement du projet
