@@ -251,7 +251,7 @@ Creation du diaporama
 Relancer le code histoire de s'assurer que tout se comporte comme prevu et recuperations des prints et informations retourner pour le diapo
 
 Remise en tete du focntionnement du code pour les membres du groupe et discutions autour de comment mettre en avant les differents elements mis
-en place durant le projet pour la presentation 
+en place durant le projet pour la presentation
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -262,3 +262,14 @@ AWS Lambda pour l'ESP, mise en place des oinformation necessaire a la generation
 Reunion projet voltron avce k'equipe de specialite, reflextion autour de la DB
 
 Projet RoadTrip, organsiation des taches et des process a mettre en place pour le bon deroulement du projet
+
+----------------------------------------------------------------------------------------------------------------------
+
+Soutenance projet xRay Data/AI
+
+Lancer de nouveau tests pre soutenncance pour comprendre au mieux les problemem rencontre dans le projets
+
+Beaucoup d'experimentation
+
+
+Preppartation sde la soutenance avec le groupe + modification des diapos
