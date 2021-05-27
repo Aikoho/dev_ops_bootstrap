@@ -273,3 +273,13 @@ Beaucoup d'experimentation
 
 
 Preppartation sde la soutenance avec le groupe + modification des diapos
+
+--------------------------------------------------------------------------------------------------------------------
+
+L'api pour les events, impossible de me co apres avoir cree un compte, erreur 500 sur le login (du coup pas possible de recuperer les tokens), et l'api pour les transport en commun j'arrive pas a mettre la main sur des lat/lng dans les objets, ni sur un numero de rue, donc pas exploitable, je sais pas j'utilise peut etre la mauvaise mais je trouve pas
+En gros il y a creationde compte connection qui fonctionne en mode shlag avec utilisation de l'id user (qui est un uuid) pour savoir qui est auth
+Normalement le model history est sense fonctionne mais j'ai pas vraiment teste etant donnes que j'ai aucune donnes
+La logique du code est en place pour /enjoy, et /travel faut juste combler, et j'ai trouve comment gerer la range, c'est en place
+J'ai fait un debut de doc dans le README avec routes, param, obligatoire ou pas type + comment setup et lance le serveur (2 scripts qui s'executent, avec un virtualenv a l'interieur histoire de pas installer trop de truc sur vos ordi respectif)
+(Faudra faire les tests du coup, avec unittest ca dervai aller vite)
+Donc en gros une fois que les apis seront connectes le gros du back est sense etre bon avec quelques touches a revoir (genre la gestion du parsing des resources que je fais pas tant que j'ai pas les vrais valeurs)
