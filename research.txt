@@ -283,3 +283,13 @@ La logique du code est en place pour /enjoy, et /travel faut juste combler, et j
 J'ai fait un debut de doc dans le README avec routes, param, obligatoire ou pas type + comment setup et lance le serveur (2 scripts qui s'executent, avec un virtualenv a l'interieur histoire de pas installer trop de truc sur vos ordi respectif)
 (Faudra faire les tests du coup, avec unittest ca dervai aller vite)
 Donc en gros une fois que les apis seront connectes le gros du back est sense etre bon avec quelques touches a revoir (genre la gestion du parsing des resources que je fais pas tant que j'ai pas les vrais valeurs)
+
+--------------------------------------------------------------------------------------------------------------------
+
+Bosser sur la suite de l'api projet Roadtrip
+
+Discution avec Francois sur ses futurs taches
+
+Mise en place d'une nouvelles structure pour le projet ESP en ce qui concerne les serveurs / lambda AWS avec Arthur
+
+Mise en place d'une doc sur le projet RoadTrip pour le backend
