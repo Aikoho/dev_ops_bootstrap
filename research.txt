@@ -299,3 +299,14 @@ Mise en place d'une doc sur le projet RoadTrip pour le backend
 Discution autour de l'organistaion du projet voltron
 
 Long echange autour de l'ESP preapration d'un diapo pour la soutenance de demain et mise en place de nouvelles methodes lambda dans des cadres de tests
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Bosse sur le projet RoadTrip
+
+REunion sur l'organisation du back et des tests
+
+Beaucoup de  mise en place de test en dev TDD
+
+Plupart des routes foctionnes commme prevu
