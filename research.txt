@@ -310,3 +310,17 @@ REunion sur l'organisation du back et des tests
 Beaucoup de  mise en place de test en dev TDD
 
 Plupart des routes foctionnes commme prevu
+
+----------------------------------------------------------------------------------------------------------------
+
+Principalement travaille sur le projet RoadTrip
+
+Disuction autour de la structure du Back end
+
+Avance sur les routes "/enjoy", probleme sur l'API qui ne semble pas etre en ligne pour le moment
+
+Avane sur la route "/eat", diffculte a trouve une API ou un CSV correspondant au besoin (probleme pour differencier bar et restaurant qui sont souvent vu comme un seul objet similaire)
+
+meme chose pour la route "/drink"
+
+Toute la partie base de donnes et gestionde celle ci a ete teste et semble fonctionner comme elle le devrait (past research and user account management) 
