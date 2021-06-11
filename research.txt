@@ -324,3 +324,18 @@ Avane sur la route "/eat", diffculte a trouve une API ou un CSV correspondant au
 meme chose pour la route "/drink"
 
 Toute la partie base de donnes et gestionde celle ci a ete teste et semble fonctionner comme elle le devrait (past research and user account management) 
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Principalement travaill2 sur le projet Voltron avec le sous group BigData
+
+Reflection aucoturs ds outils utilises
+
+Principlament Cassandra, RazorSQL et Graphana
+
+Modification du diaporama en vue du Follow Up du 17
+
+Experimentation de Cassandra a travers razorSQL et mise en place des 3 tables principales:
+
+Hospital / Room / Material
