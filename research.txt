@@ -323,7 +323,7 @@ Avane sur la route "/eat", diffculte a trouve une API ou un CSV correspondant au
 
 meme chose pour la route "/drink"
 
-Toute la partie base de donnes et gestionde celle ci a ete teste et semble fonctionner comme elle le devrait (past research and user account management) 
+Toute la partie base de donnes et gestionde celle ci a ete teste et semble fonctionner comme elle le devrait (past research and user account management)
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -339,3 +339,14 @@ Modification du diaporama en vue du Follow Up du 17
 Experimentation de Cassandra a travers razorSQL et mise en place des 3 tables principales:
 
 Hospital / Room / Material
+
+-------------------------------------------------------------------------------------------------------------------
+
+Prepartaion de la soutenance intermediaire du projet Voltron avce le groupe data
+
+Soutenance intermediaire du projet voltron
+
+Experimentation de nouvelles API pour le projet EpicRoadTrip en ce aui concerne les routes /enjoy /drink, /sleep
+
+APIS: amadeus (eat, drink)
+      4squares (travel, sleep)
