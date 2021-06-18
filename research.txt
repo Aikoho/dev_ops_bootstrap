@@ -350,3 +350,14 @@ Experimentation de nouvelles API pour le projet EpicRoadTrip en ce aui concerne 
 
 APIS: amadeus (eat, drink)
       4squares (travel, sleep)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Reunion projet DHOST (ESP)
+Changement de cap en ce qui concerne l'utilisation des services AWS
+
+Mise en place du code metier dans un contexte de serveur EC2, experimentations concluantes : recuperation du pojet client, build a travers le service API EC2 et upload sur buckets
+
+MAnque la partie Upload sur le S3, prochainement mis en remplace
+
+Reunion a vernier vers 17h40 avec le groupe Data du projet Voltron
