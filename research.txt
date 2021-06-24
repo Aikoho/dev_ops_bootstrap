@@ -361,3 +361,17 @@ Mise en place du code metier dans un contexte de serveur EC2, experimentations c
 MAnque la partie Upload sur le S3, prochainement mis en remplace
 
 Reunion a vernier vers 17h40 avec le groupe Data du projet Voltron
+
+-------------------------------------------------------------------------------------------------------------------
+
+Principalement traville sur le projet RoadTrip
+
+Implementation de l'API foursquare:
+
+Gestion de l'authentification
+
+Ajout de l'historiques de recherches
+
+Routes Bar et Restaurant sont fonctionnels et implemente
+
+Plus que deux a ajouter avant la fin du back end + recherche d'historiques par user
