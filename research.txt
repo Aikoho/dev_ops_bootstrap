@@ -402,3 +402,25 @@ Modification des tests unitaires et refactorisation du code Backend en ce qui co
 Modification du comportement en fonction de si l;utilisateur est authentifie ou non (Creation d'une entree histories en cas d'auth, fonctionne meme si non authentifie mais pas de creation d'une entree histories dans ce cas)
 
 Refcator du code post modification 
+
+----------------------------------------------------------------------------------------------------------------------
+
+Reunion Voltron pour 
+
+Organisation avec la Team IoT sur les donnees a store, plus la facon de se s'authentifier
+
+Projet Dhost
+
+Reunion, rencontre avec un nouveau membre de l'equipe, discutions autour de l'avancement de chaque partie, plannification des prochaines semaines en vu des autres projets a rendre
+
+Projet Epic Road Trip
+
+Finalistaion du back
+
+Mise a jour de la documentation
+
+Refactorisation du code
+
+Mise en place de CI/CD sur Gitlab (non fonctionnel, encore)
+
+
