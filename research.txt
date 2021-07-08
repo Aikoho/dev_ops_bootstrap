@@ -424,3 +424,16 @@ Refactorisation du code
 Mise en place de CI/CD sur Gitlab (non fonctionnel, encore)
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+Projet Voltron:
+
+Preaparation de la soutenance general du projet (travail sur le diapo, derniere mise au point sur que dire et comment s'organiser entre nous sur la participation durant la presentation)
+
+Soutenance Voltron Generale
+
+Projet ESP (DHOST):
+
+Travail sur l'implementation de Bucket S3 (download depuis bucket du projet client pour le build)
+
+
