@@ -437,3 +437,29 @@ Projet ESP (DHOST):
 Travail sur l'implementation de Bucket S3 (download depuis bucket du projet client pour le build)
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+Projet Voltron
+
+Soutenane AI
+
+Soutenance VR
+
+Discution avec les equipes pour l'organisation de la soutenance
+
+Projet RoadTrip:
+
+Mise au point avec l'equipe
+
+repartition des taches
+
+Projet ESP (DHOST):
+
+Mise en place du download du bucket
+
+Enfin fonctionnel, telecharge le projet client en fonction de la demande user
+
+Nouveau probleme detecte: 
+    node n'est pas accessible depuis l'utilisateur root pour le moment necessaire pour faire tourner le serveur sur le port 80
+
+deux solutioons possible, change le port sur lequel tourne le serveur et exposer ce port sur l'environnement EC2 AWS ou faire une redirection du port 80 sur un autre port
