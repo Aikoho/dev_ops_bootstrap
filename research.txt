@@ -463,3 +463,23 @@ Nouveau probleme detecte:
     node n'est pas accessible depuis l'utilisateur root pour le moment necessaire pour faire tourner le serveur sur le port 80
 
 deux solutioons possible, change le port sur lequel tourne le serveur et exposer ce port sur l'environnement EC2 AWS ou faire une redirection du port 80 sur un autre port
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+Discution autour du projet RoadTrip pour la soutenance d demain
+
+Organisation des differentes taches a accomplir pour la soutenance
+
+Set up de derniers elements pour la participation au diapo et des conf des serveurs pour les dernirs tests
+
+Projet ESP reunion milestone 2, debut de la preparation du diapo + preparation session de travail avec Arthur demain matin + apres midi
+
+Grosse Reunion associative avec le bureau de la Paillote:
+
+transmission de savoir de l'ancien bureau
+
+Preparation des factures / chiffres d'affaires pour le BDE Dramas (soiree salsa), et pour EpiSport (soiree UE)
+
+Apprentissage utilisation Excel pour la compatibilite de l'association
