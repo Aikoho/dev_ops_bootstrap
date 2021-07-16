@@ -483,3 +483,21 @@ transmission de savoir de l'ancien bureau
 Preparation des factures / chiffres d'affaires pour le BDE Dramas (soiree salsa), et pour EpiSport (soiree UE)
 
 Apprentissage utilisation Excel pour la compatibilite de l'association
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+Projet ESP (DHOST):
+
+Travail sur l'upload du projet client sur le bucket
+
+Download du projet (bucket AWS S3) + build du projet (EC2 AWS) + Upload du projet (bucket AWS S3)
+
+
+Projet RoadMap
+
+Travail sur le Diapo du projet pour la keynote
+
+Prepartaion a la presentation
+
+Decallage de la soutenance a la semaine prochaine sur demande du correcteur (Gandalf down)
