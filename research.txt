@@ -501,3 +501,17 @@ Travail sur le Diapo du projet pour la keynote
 Prepartaion a la presentation
 
 Decallage de la soutenance a la semaine prochaine sur demande du correcteur (Gandalf down)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Projet ESP (DHOST):
+
+Continue a traviller a la refactorisation du code de dhost_builder pour le migrer vers le repo dhost_microservice
+
+utisation de nouvelles librairies python dans ce cadre
+
+Organisation pour la soutenance milestone 2
+
+Projet RoadTrip:
+
+Organisation de la soutenance du projet 
