@@ -547,4 +547,21 @@ Preparation du diapo pour le rattrapage
 
 Mise en place des entetes du diapo et reflection autour de la jusitfication a apporter pour chaque competences
 
+------------------------------------------------------------------------------------------------------------------
 
+Retour sur le Projet ESP (DHOST)
+
+Remise en tete des differents concept et organisation du travail a faire pour la suite de l'annee
+
+Refacto du code de dhost builder pour l'adapter au repo dhost_microservice et pouvoir faire la transition de facon souple
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
