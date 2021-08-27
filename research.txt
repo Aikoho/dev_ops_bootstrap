@@ -558,6 +558,14 @@ Refacto du code de dhost builder pour l'adapter au repo dhost_microservice et po
 
 -------------------------------------------------------------------------------------------------------------------
 
+Projet DHOST
+
+Tentative infrutueuse de faire fonctionner l'upload uniquement sur le dossier ./build du projet client a build
+
+Jusqu'ici impossible d'arriver a generer ce fichier, besoin de revoir les bases de react, potentiellement un call avec Joel dans la semaine pour voir pourquoi ce dossier ne se genere pas
+
+(probablement une gestionde la conf dev/prod)
+
 -------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------
