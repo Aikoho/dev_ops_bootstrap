@@ -568,6 +568,18 @@ Jusqu'ici impossible d'arriver a generer ce fichier, besoin de revoir les bases 
 
 -------------------------------------------------------------------------------------------------------------------
 
+Projet ESP (DHOST):
+
+Lecture de texte de lois sur les RGPD
+
+Essaye de comprendre les grandes lignes de la loi
+
+Voir ce qui concerne notre projet dans le cadre de la protection de nos utilisateurs (ce qui compte comme essentiel et la facon de les gerer, etc...)
+
+Organisation des Projets de WEI Epita (BDE Drama), WEIP Epita (BDE Drama) et WEIP Epitech (BDE Raven) avec l'association la Paillote, pour les 24 et 25 septembre (WEIP Epita Epitech), et du 15 au 17 octobre (WEI Drama)
+
+Discution avec les bureaux, mise en place de fiche de routes pour les futurs devis de l'asso + sessions questions sur les lieux, acheminements du materiel, nombres de personnes, presence ou non de mineurs sur site, etc ....
+
 -------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------
