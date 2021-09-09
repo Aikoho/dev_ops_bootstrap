@@ -553,8 +553,15 @@ Retour sur le Projet ESP (DHOST)
 
 Remise en tete des differents concept et organisation du travail a faire pour la suite de l'annee
 
-Refacto du code de dhost builder pour l'adapter au repo dhost_microservice et pouvoir faire la transition de facon souple
+Reflection avec l'equipe back end sur les evolutions a apporter au projet dhost_microservice
 
+Definition des taches pour chacun + planning des mois a venir
+
+Refacto du code de dhost_builder pour l'adapter au repo dhost_microservice et pouvoir faire la transition de facon souple
+
+Debut de la transistion entre hug et flask
+
+Reflection sur la facon de recuperer les arguments fourni par l'utilisateur et la gestion des variable d'environnement (quelle librairie utiliser, quels valeurs a defnir comme variable d'environnement pour plus de fluidite dans le developpement)
 
 -------------------------------------------------------------------------------------------------------------------
 
