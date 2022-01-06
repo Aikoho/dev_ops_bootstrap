@@ -602,4 +602,15 @@ Debut de discution avec l'ancien bureau pour la mise en place d'un devis pour le
 
 -------------------------------------------------------------------------------------------------------------------
 
+Projet AIA:
+
+Reunion d'equipe pour preparer le follow up de demain
+
+Reflection autour de l'algorithm A* et de la facon de l'adapter a nos besoin
+
+(Passer d'un systeme de grid sur un systeme de ponderation base sur la distance et l'angle absolu sur base de la ligne point de depart, point d'arrive)
+
+Debut d'experimentation de l'A* custom
+
+Finition de la mise en forme de grpah de donnee pour traitement a travers l'A* custom
 -------------------------------------------------------------------------------------------------------------------
