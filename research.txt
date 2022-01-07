@@ -614,3 +614,18 @@ Debut d'experimentation de l'A* custom
 
 Finition de la mise en forme de grpah de donnee pour traitement a travers l'A* custom
 -------------------------------------------------------------------------------------------------------------------
+
+Projet AIA:
+
+Preparation du follow up
+Creation d'un schema explicatitf de la solution pour simplifier la discution avec le correcteur 
+
+Parsing des donnees mise a disposition + recuperation et completion des donnees fourni par l'api de coordonnees gps de data.gouv pour les positions des gares
+
+Reflection autour de la mise en application de la fonction d'haversine en rapport avec le calcul d'angle entre destination origine et gare intermediaire pour determiner la ponderation d'une route pour la determination du meilleur trajet via un systeme de graph
+
+Projet Data:
+
+Preparation des questions a pose au correcteur pendant le follow up
+
+-------------------------------------------------------------------------------------------------------------------
