@@ -629,3 +629,15 @@ Projet Data:
 Preparation des questions a pose au correcteur pendant le follow up
 
 -------------------------------------------------------------------------------------------------------------------
+
+Projet AIA:
+
+Debut de mise en place du A* algorithm custom pour generer l'analyse de graph et trouver le chemin le moins lourd
+
+Refelction autour du A* algorithm et sa ponderation de noeuds
+
+Projet Data:
+
+Analyse du dataset pour essayer de retrouver des liaison pertinente entre famille / univers
+
+Analyse du dataset pour comprendre les prix des produits et trouver une facon de les exploiter malgre leurs changement visiblmeent aleatoire
