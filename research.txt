@@ -641,3 +641,14 @@ Projet Data:
 Analyse du dataset pour essayer de retrouver des liaison pertinente entre famille / univers
 
 Analyse du dataset pour comprendre les prix des produits et trouver une facon de les exploiter malgre leurs changement visiblmeent aleatoire
+
+-------------------------------------------------------------------------------------------------------------------
+
+Projet AIA:
+
+Mise en place de la ponderations de l'orientation cote du graph noeud a noeud
+
+Mise en place de la ponderation de la distance entre deux noeuds du graph
+
+Debut de mise en place de la structure globale de l'A* sur base de cette ponderation
+-------------------------------------------------------------------------------------------------------------------
